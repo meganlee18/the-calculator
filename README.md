@@ -8,6 +8,10 @@ This project creates a calculator using React. Written in Javascript and bootstr
 
 Exactly how a calculator should be! With arithmetric capabilities. Click on the calculator buttons to play around.
 
+## Demo
+
+https://github.com/user-attachments/assets/f25274a4-d0b4-48e8-ab89-2139279e8428
+
 ## How to run locally
 
 To launch project locally, run:
